@@ -47,4 +47,7 @@ The script is executed by calling the `should_buy_or_sell()` function and passin
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
 
 ## Author :memo:
+<a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30">
+</a>
 :bust_in_silhouette: [Dafrabzinator](https://github.com/dafrabzinator)
