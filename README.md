@@ -49,10 +49,10 @@ Please note that this script is for educational purposes only and is not intende
 ## Author :memo:
 <div align="center">
     <a href="https://twitter.com/dafrabs" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30" style="margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="20" height="30" style="margin-right: 20px;">
     </a>
     <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height="30" style="margin-left: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="20" height="30" style="margin-left: 20px;">
     </a>
 </div>
 
