@@ -47,13 +47,14 @@ The script is executed by calling the `should_buy_or_sell()` function and passin
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
 
 ## Author :memo:
-<div align="center">
-    <a href="https://twitter.com/dafrabs" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="20" height="30" style="margin-right: 20px;">
-    </a>
-    <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="20" height="30" style="margin-left: 20px;">
-    </a>
+
+<div style="text-align: right;">
+  <a href="https://twitter.com/dafrabzinator" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
+  </a>
+  <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="30" height=" 20" style="margin-left: 20px;">
+  </a>
 </div>
 
 
