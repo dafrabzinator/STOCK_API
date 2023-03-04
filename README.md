@@ -51,3 +51,13 @@ Please note that this script is for educational purposes only and is not intende
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30">
 </a>
 :bust_in_silhouette: [Dafrabzinator](https://github.com/dafrabzinator)
+
+<div align="center">
+    <a href="https://twitter.com/YourTwitterHandle" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50" hspace="20">
+    </a>
+    <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="50" height="50" hspace="20">
+    </a>
+</div>
+
