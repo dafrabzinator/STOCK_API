@@ -47,17 +47,13 @@ The script is executed by calling the `should_buy_or_sell()` function and passin
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
 
 ## Author :memo:
-<a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="30">
-</a>
-:bust_in_silhouette: [Dafrabzinator](https://github.com/dafrabzinator)
-
 <div align="center">
-    <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="50" height="50" hspace="20">
+    <a href="https://twitter.com/dafrabzinator" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="40" height="40" style="margin-right: 20px;">
     </a>
-    <a href="https://www.linkedin.com/in/YourLinkedInProfile" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="50" height="50" hspace="20">
+    <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="40" height="40" style="margin-left: 20px;">
     </a>
 </div>
+
 
