@@ -45,7 +45,7 @@ The script is executed by calling the `should_buy_or_sell()` function and passin
 
 ## Disclaimer 
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
-
+![the stock data](/Figure_1.png)
 ## Author :memo:
 
 <div style="text-align: right;">
