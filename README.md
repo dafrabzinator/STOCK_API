@@ -51,7 +51,7 @@ Please note that this script is for educational purposes only and is not intende
 ## Author :memo:
 
 <div style="text-align: right;">
-  <a href="https://twitter.com/dafrabzinator" target="_blank">
+  <a href="https://twitter.com/dafrabs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
   </a>
   <a href="http://linkedin.com/in/oluwabusayomi-s-orosunlegan-6a0144263" target="_blank">
