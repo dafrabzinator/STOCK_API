@@ -1,10 +1,9 @@
 
 ## Introduction
-This script uses the Interactive Brokers API to implement a trading algorithm. The algorithm uses data from the Yahoo Finance API and two different trading strategies: Moving Average Crossover and Bollinger Bands.
-
-## Requirements
-The following libraries and packages need to be installed:
-run `pip install -r requirements` to install
+This script uses the Interactive Brokers API to implement a trading algorithm. The algorithm uses data from the Yahoo Finance API and two different trading strategies: `Moving Average Crossover`and `Bollinger Bands`
+## Usage 
+to clone the project, run `git clone https://github.com/dafrabzinator/STOCK_API.git` on your command prompt.
+The following libraries and packages also need to be installed:
 - http
 - ibapi
 - yfinance
@@ -12,11 +11,8 @@ run `pip install -r requirements` to install
 - numpy
 - matplotlib
 - ib_insync
-
-## Usage
-The script consists of the following classes and functions:
-
-### Classes
+-  run `pip install -r requirements` also to do that..
+## Classes
 - MyClient
 - MyEWrapper
 - IBAPI
@@ -39,8 +35,7 @@ This function implements the Moving Average Crossover strategy. It returns a boo
 #### `bollinger_bands(data, window, num_std)`
 This function implements the Bollinger Bands strategy. It returns a boolean indicating whether to buy or sell the stock.
 
-## Execution
-download the script running `git clone https://github.com/dafrabzinator/STOCK_API.git`
+
 The script is executed by calling the `should_buy_or_sell()` function and passing it the stock data. If the function returns True, the script connects to the Interactive Brokers API and executes a buy order. If the function returns False, the script connects to the Interactive Brokers API and executes a sell order :chart_with_upwards_trend:.
 
 ## Disclaimer 
