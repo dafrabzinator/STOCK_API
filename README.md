@@ -1,9 +1,11 @@
 
 ## Introduction
-This script uses the Interactive Brokers API to implement a trading algorithm. The algorithm uses data from the Yahoo Finance API and two different trading strategies: `Moving Average Crossover`and `Bollinger Bands`
-## Usage 
-to clone the project, run `git clone https://github.com/dafrabzinator/STOCK_API.git` on your command prompt.
-The following libraries and packages also need to be installed:
+This script uses the Interactive Brokers API to implement a trading algorithm. The algorithm uses data from the Yahoo Finance API and two different trading strategies:
+
+## Usage
+to clone this project, on your terminal run `git clone https://github.com/dafrabzinator/STOCK_API.git`. after the cloning process is complete, navigate into the project directory. 
+
+here are some of the python packages specified in the requirements.txt file
 - http
 - ibapi
 - yfinance
@@ -11,32 +13,25 @@ The following libraries and packages also need to be installed:
 - numpy
 - matplotlib
 - ib_insync
--  run `pip install -r requirements` also to do that..
-## Classes
-- MyClient
-- MyEWrapper
-- IBAPI
+  
+run `pip install -r requirements` to install all the required packages in your python environment. you can then execute the script.
 
 ### Functions
-- `get_stock_data(ticker)`
-- `should_buy_or_sell(data)`
-- `moving_average_crossover(data, short_window, long_window)`
-- `bollinger_bands(data, window, num_std)`
+- `get_stock_data(ticker)`.
+- `should_buy_or_sell(data)`.
+- `moving_average_crossover(data, short_window, long_window)`.
+- `bollinger_bands(data, window, num_std)`.
 
-#### `get_stock_data(ticker)`
-This function takes a ticker symbol as input and returns a pandas dataframe with the stock's historical data.
+the `get_stock_data(ticker)` function takes a ticker symbol as input and returns a pandas dataframe with the stock's historical data.
 
-#### `should_buy_or_sell(data)`
+`should_buy_or_sell(data)`
 This function takes a pandas dataframe as input and returns a boolean indicating whether to buy or sell the stock based on the implemented trading strategy.
 
-#### `moving_average_crossover(data, short_window, long_window)`
+`moving_average_crossover(data, short_window, long_window)`
 This function implements the Moving Average Crossover strategy. It returns a boolean indicating whether to buy or sell the stock.
 
-#### `bollinger_bands(data, window, num_std)`
+`bollinger_bands(data, window, num_std)`
 This function implements the Bollinger Bands strategy. It returns a boolean indicating whether to buy or sell the stock.
-
-
-The script is executed by calling the `should_buy_or_sell()` function and passing it the stock data. If the function returns True, the script connects to the Interactive Brokers API and executes a buy order. If the function returns False, the script connects to the Interactive Brokers API and executes a sell order :chart_with_upwards_trend:.
 
 ## Disclaimer 
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
