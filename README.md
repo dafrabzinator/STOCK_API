@@ -23,6 +23,7 @@ run `pip install -r requirements` to install all the required packages in your p
 - `bollinger_bands(data, window, num_std)`.
 
 the `get_stock_data(ticker)` function takes a ticker symbol as input and returns a pandas dataframe with the stock's historical data.
+![the stock data](/Figure_1.png)
 
 `should_buy_or_sell(data)`
 This function takes a pandas dataframe as input and returns a boolean indicating whether to buy or sell the stock based on the implemented trading strategy.
@@ -37,9 +38,9 @@ This function implements the Bollinger Bands strategy. It returns a boolean indi
 Please note that this script is for educational purposes only and is not intended for use as an actual trading algorithm. Trading in the financial markets carries a high level of risk and is not suitable for all investors. Before making any investment decisions, it is important to carefully consider your investment objectives, level of experience, and risk appetite.
 
 
-![the stock data](/Figure_1.png)
-## Author :memo:
 
+## Author :memo:
+follow me on 
 <div style="text-align: right;">
   <a href="https://twitter.com/dafrabs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Logo" width="30" height="20" style="margin-right: 20px;">
