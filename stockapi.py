@@ -1,9 +1,8 @@
-#here we'll use the interactive Brokers Api
+
 from http import client
 import ibapi
 from ibapi.client import EClient
-import yfinance as yf 
-#set up the environment 
+import yfinance as yf
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
