@@ -23,7 +23,7 @@ run `pip install -r requirements` to install all the required packages in your p
 - `bollinger_bands(data, window, num_std)`.
 
 the `get_stock_data(ticker)` function takes a ticker symbol as input and returns a pandas dataframe with the stock's historical data.
-![the stock data](/Figure_1.png)
+![the stock data](/Figure_2.png)
 
 `should_buy_or_sell(data)`
 This function takes a pandas dataframe as input and returns a boolean indicating whether to buy or sell the stock based on the implemented trading strategy.
